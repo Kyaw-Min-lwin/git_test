@@ -1,1 +1,1 @@
-ECHO is on.
+Trying to learn git.This is my first git project.
